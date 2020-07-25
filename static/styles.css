@@ -1,0 +1,48 @@
+/* MAIN STYLING */
+/* html{
+    font-size:62.4%;
+    font-family: sans-serif;
+    height: 100vh;
+   
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+  
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 1.2rem;
+    background-color: silver;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    font-size: 2.1rem;
+    color: whitesmoke;
+    align-items: center;
+    height: 100%;
+}
+
+h1{
+    text-shadow: 1px 3px 2px rgba(27, 10, 104, 0.6);
+} */
+/* END */
+/* IMAGES */
+#me{
+    height: 24rem !important;
+    filter: grayscale(.9);
+    border-radius: 9px;
+    box-shadow: 1px 2px 3px rgba(0,0,0,.6);
+    cursor: pointer;
+
+}
+
+.tech_icon{
+    width:21rem;
+}
+/* END */
